@@ -32,7 +32,7 @@ html{
 
 /*Showcase*/
 #showcase{
-	background:url('../img/showcase.jpg')no-repeat center center;
+	background:url('../img/particle-tracks-720px.jpg')no-repeat center center;
 	background-size: cover;
 	min-height: 610px;
 	position: relative;
